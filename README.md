@@ -70,21 +70,6 @@
 
 ---
 
-## 🏆 Mini brag wall (but with graphs)
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&rank_icon=github&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin3697&layout=compact&hide_border=true" />
-
-<br/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=vin3697&hide_border=true" />
-
-</div>
-
----
-
 ## 📌 Featured Projects (pin your favorites here)
 
 - 🚗 **J1939 / CAN utilities** — parsers, tools, message handling, diagnostics  
@@ -116,14 +101,6 @@
   <img src="https://img.icons8.com/color/64/000000/raspberry-pi.png"/>
   <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-mathematics-education-wanicon-lineal-color-wanicon.png"/>
 </p>
-
----
-
-## 🐍 My contribution snake (because why not)
-> If it doesn’t show up, enable GitHub Actions and add the snake workflow.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vin3697/vin3697/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 ---
 
