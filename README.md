@@ -70,7 +70,7 @@
 
 ---
 
-## 📌 Featured Projects (pin your favorites here)
+## 📌 Featured Projects
 
 - 🚗 **J1939 / CAN utilities** — parsers, tools, message handling, diagnostics  
 - 🤖 **ROS projects** — perception, SLAM, navigation, HRI  
